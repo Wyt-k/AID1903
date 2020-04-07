@@ -1,5 +1,6 @@
 import sys
 
+#import sys tom
 #　获取命令行参数
 print(sys.argv)
 a=sys.argv

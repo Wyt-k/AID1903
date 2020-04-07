@@ -5,3 +5,6 @@
      0 packets output, 0 bytes, 0 total output drops
      Output 0 broadcast packets, 0 multicast packets
 
+##aid 1903 git 学习
+
+学习内容包括
